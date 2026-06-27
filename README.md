@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
+## Hash Table
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
