@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0Sankalp/leetcode_java/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
